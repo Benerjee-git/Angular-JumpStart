@@ -10,4 +10,3 @@ platformBrowserDynamic().bootstrapModule(PlaygroundModule
     sandboxesDefined: SandboxesDefined
   }))
   .catch(err => console.error(err));
-system.out println (print ok) .
